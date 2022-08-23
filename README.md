@@ -8,6 +8,7 @@
 - 🌱 I’m currently student in University of applied science Bremerhaven.
 - 💞️ I’m looking to collaborate on a company that works in the field of IOT or Embedded systems design.
 - 📫 How to reach me. This is an important question:) My E-mail is: hosseinb444@gmail.com
+- I would be incredibly happy:)), if you contact me by email.
 
 <!---
 hosseinb1994/hosseinb1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
