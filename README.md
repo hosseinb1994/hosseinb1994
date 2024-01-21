@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Hossein Baghaei and I'm 28 years old. Currently,
+- 👋 Hi, I’m Hossein Baghaei and I'm 30 years old. Currently,
 -  I am master student in the field of Embedded systems design 
 -  in Hochschulde Bremerhaven. Also, I studied electronic engineering
--   in my Bachelor and I have more than two years' experience of working
--    in the field of Hardware designing and ARM microcontrollers programming (Especially ST microcontrollers).
--     Also, I have a good knowledge in IOT (internet of things).
-- 👀 I’m interested in Internet of things(IOT), ARM programming and Hardware designing.
-- 🌱 I’m currently student in University of applied science Bremerhaven.
-- 💞️ I’m looking to collaborate on a company that works in the field of IOT or Embedded systems design.
+-   in my Bachelor and I have more than three years' experience of working
+-    in the field of IOT, Hardware designing and ARM microcontrollers programming.
 - 📫 How to reach me. This is an important question:) My E-mail is: hosseinb444@gmail.com
 - I would be incredibly happy:)), if you contact me by email.
 
